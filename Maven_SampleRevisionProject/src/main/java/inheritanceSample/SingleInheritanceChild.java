@@ -1,6 +1,6 @@
 package inheritanceSample;
 
-public class SingleInheritanceChild extends SingleInheritanceSample{
+public class SingleInheritanceChild extends SingleInheritanceSample {
 	public void print() {
 		System.out.println("This is child class");
 	}
